@@ -15,11 +15,11 @@ with st.container():
     courses_column, marks_column, image_column = st.columns(3)
     with courses_column:
         st.header("Courses")
-        st.write("[MPM2DZ-3 : Principles of Mathematics](Math.py)")
-        st.write("[CHC2DZ-1 : Canadian History](History.py)")
-        st.write("[ICS3U1-4 : Computer and Information Science](CompSci.py)")
-        st.write("[SNC2DZ-4 : Science](Science.py)")
-        st.write("[AMR2O1-2 : Music - Repertoire](Rep.py)")
+        st.write("MPM2DZ-3 : Principles of Mathematics")
+        st.write("CHC2DZ-1 : Canadian History")
+        st.write("ICS3U1-4 : Computer and Information Science")
+        st.write("SNC2DZ-4 : Science")
+        st.write("AMR2O1-2 : Music - Repertoire")
 
     with marks_column:
         st.header("Mark")
