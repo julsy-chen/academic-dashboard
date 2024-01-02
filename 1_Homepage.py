@@ -31,7 +31,7 @@ with st.container():
 
     with image_column:
         st.write("##")
-        st.image("https://thumbs.dreamstime.com/b/girl-near-window-writes-notebook-anime-style-generative-ai-271031428.jpg")
+        st.image("https://i.pinimg.com/564x/fe/f3/c1/fef3c1f6d27730f48b1f65689ec8b847.jpg")
 
 st.write("---")
 st.header("To-Do Lists")
