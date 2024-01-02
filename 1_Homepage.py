@@ -12,7 +12,7 @@ st.title("Julia's Academic Dashboard")
 
 # COURSES
 with st.container():
-    courses_column, marks_column, image_column = st.columns((1, 1, 2))
+    courses_column, marks_column, image_column = st.columns(3)
     with courses_column:
         st.header("Courses")
         st.write("[MPM2DZ-3 : Principles of Mathematics](Math.py)")
